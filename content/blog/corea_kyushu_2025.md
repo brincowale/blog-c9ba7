@@ -15,7 +15,6 @@ Nuevo viaje por Asia, esta vez Turkish Airlines volaba a Seúl ICN por 600€. H
 Normalmente siempre viajo con Air France o KLM debido a que 6 semanas antes del vuelo bajan precios de los asientos no vendidos, donde suelo pagar alrededor de 550€. Esta vez no me convencían las fechas e importe, pero habitualmente puedes encontrar descuentos que nos rebajarían unos 25€ extra. En caso de registrarse en su web mediante el programa Flying Blue y aceptar publicidad, en nuestro cumpleaños recibiremos un cupón de 50€ con caducidad de 1 mes.
 
 
-
 ## eSIM
 
 Todos los blogs y vídeos en Youtube te van a recomendar Holafly debido a la gran comisión que se llevan. En realidad puedes conseguir lo mismo pagando hasta 10 veces menos si compras una eSIM que no compre a famosos. Para ello puedes buscar en [eSIMDB](https://esimdb.com/) o bien en [Trip.com](https://www.trip.com/guide/phone/esim.html), está vez al ser 2 países compré una de Asia que incluía Corea y Japón por 7$ ofrecá 15Gb durante 30 días.
@@ -23,6 +22,25 @@ Todos los blogs y vídeos en Youtube te van a recomendar Holafly debido a la gra
 Por otro lado existe [Roamless](https://roamless.com/) eSIM que ofrece datos globales y el saldo no caduca. Ofrece buena calidad, pero no la recomiendo debido a su alto coste. La tengo como eSIM secundaría cuando hago escalas en países como Suiza o Turquía donde no existe el roaming Europeo. El saldo promocional si caduca pasado un tiempo, pero el de pago permanece para siempre.
 
 
+## Hoteles
 
-# Hoteles
+Soy de la opinión de escoger el hotel más barato que cumpla nuestros criterios, sin atarse a ningún hotel en concreto o cadena. Por este motivo en Asia suelo reservar casi todos los hoteles con Agoda porque es la agencia más barata. Además, una vez seleccionado el hotel si desde un móvil buscamos ese mismo hotel en Google, Agoda usualmente nos ofrecerá un precio más barato en el comparador de Google Hotels.
+
+## Tarjetas y efectivo
+
+En esta ocasión las tarjetas usadas han sido Abanca NX, Revolut y BBVA Visa Máxima. Todas ellas sin comisión de retirada en cajero ni cambio de divisas. Todas tienen condiciones y letra pequeña, pero en otro post entraré en detalles. 
+
+En Japón descubrí que los cajeros de 7/11 no cobran comisión por usar Mastercard, pero cobraban 110-220 JYP por usar Visa. En cambio cajeros como los de AEON no cobraban sin importar el tipo de tarjeta. En AEON había que elegir la opción "foreign cards". También en Kyushu, Japón existen lugares que solo aceptan Visa, mientras que otros solo aceptan Mastercard. Por estos motivos siempre es útil disponer de distintas tarjetas.
+
+## Transporte público
+
+En Corea todo el mundo utiliza tarjetas T-Money, de hecho es un requisito si se desea utilizar un bus ya que es la única opción. Pero concretamente en Seúl hay una tarjeta que llamada [Climate Card](https://english.seoul.go.kr/policy/transportation/climate-card/) la cual permite viajes ilimitados. Es una opción que normalmente no vas a ver recomendada pero en cambio que te ahorrará mucho dinero. A pesar que la página enlazada indica que se debe registrar, no es cierto pero no tedrás acceso a las bicis. Esta tarjeta tiene ciertas limitaciones pues solo funcionan dentro de Seúl, no sirve para la linea de tren de color amarillo en el tramo central. Tampoco sirve para los buses de larga distancia de color rojo.
+
+Al margen de las limitaciones, la tarjeta nos permite ahorrar mucho dinero. Incluso si utilizamos el tren del aeropuerto AREX all-stop, nos permite viajar Estación central de Seúl --> Aeropuerto ICN con el mismo abono ilimitado. A la inversa con origen aeropuerto no es posible.
+
+En Busan en cambio usé una tarjeta T-Money normal. Más complicado en Kyushu el caos montado al eliminar la aceptación de tarjetas nacionales. A cambio puedes pagar con NFC casi que en cualquier bus, tren, metro y tranvía de las ciudades grandes como Fukuoka, Nagasaki, Kumamoto, Kagoshima.
+
+Aviso importante, Google Maps no funciona para rutas en Corea, únicamente para reviews y algún trayecto concreto en transporte público. La alternativa es utilizar la aplicación Naver Maps que se encuentra en inglés. Para más información la página de [Seúl](https://english.seoul.go.kr/service/movement/public-transportation/) puede ser útil.
+
+## 
 
