@@ -49,7 +49,11 @@ En Corea todo el mundo utiliza tarjetas T-Money, de hecho es un requisito si se 
 
 Al margen de las limitaciones, la tarjeta nos permite ahorrar mucho dinero. Incluso si utilizamos el tren del aeropuerto AREX all-stop, nos permite viajar Estación central de Seúl --> Aeropuerto ICN con el mismo abono ilimitado. A la inversa con origen aeropuerto no es posible. Existe un [vídeo](https://youtu.be/XbVBysLZ91E?t=50) muy básico de cómo recargar la tarjeta en las máquinas, que previamente debemos comprar en una tienda de conveniencia tipo CU, 7/11 o GS25 o bien en un punto de atención al cliente del metro.
 
-En Busan en cambio usé una tarjeta T-Money normal. Más complicado en Kyushu el caos montado al eliminar la aceptación de tarjetas nacionales. A cambio puedes pagar con NFC casi que en cualquier bus, tren, metro y tranvía de las ciudades grandes como Fukuoka, Nagasaki, Kumamoto, Kagoshima.
+En Busan en cambio usé una tarjeta T-Money normal. La misma tarjeta la usé en Busan en el trayecto aeropuerto ICN - Estación central. En Busan disponemos de 2 transbordos gratis en un máximo de 30 minutos.
+![2 transbordos gratis](image.png)
+
+
+Más complicado en Kyushu el caos montado al eliminar la aceptación de tarjetas nacionales. A cambio puedes pagar con NFC casi que en cualquier bus, tren, metro y tranvía de las ciudades grandes como Fukuoka, Nagasaki, Kumamoto, Kagoshima.
 
 Aviso importante, Google Maps no funciona para rutas en Corea, únicamente para reviews y algún trayecto concreto en transporte público. La alternativa es utilizar la aplicación Naver Maps que se encuentra en inglés. Para más información la página de [Seúl](https://english.seoul.go.kr/service/movement/public-transportation/) puede ser útil.
 
