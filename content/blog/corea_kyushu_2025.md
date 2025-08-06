@@ -41,6 +41,8 @@ En esta ocasión las tarjetas usadas han sido Abanca NX, Revolut y BBVA Visa Má
 
 En Japón descubrí que los cajeros de 7/11 no cobran comisión por usar Mastercard, pero cobraban 110-220 JYP por usar Visa. En cambio cajeros como los de AEON no cobraban sin importar el tipo de tarjeta. En AEON había que elegir la opción "foreign cards". También en Kyushu, Japón existen lugares que solo aceptan Visa, mientras que otros solo aceptan Mastercard. Por estos motivos siempre es útil disponer de distintas tarjetas.
 
+Yo uso habitualmente mi tarjeta IC Pasmo desde hace tiempo en todo Japón, desde trenes, máquinas de vending hasta tiendas tipo 7/11 y restaurantes. Esta vez no recordaba que los cajeros 7/11 permiten la recarga de efectivo en las tarjetas IC y es una opción muy útil en ciertas ciudades dónde estaciones de metro o tren no están cerca.
+
 ## Transporte público
 
 En Corea todo el mundo utiliza tarjetas T-Money, de hecho es un requisito si se desea utilizar un bus ya que es la única opción. Pero concretamente en Seúl hay una tarjeta que llamada [Climate Card](https://english.seoul.go.kr/policy/transportation/climate-card/) la cual permite viajes ilimitados. Es una opción que normalmente no vas a ver recomendada pero en cambio que te ahorrará mucho dinero. A pesar que la página enlazada indica que se debe registrar, no es cierto pero no tedrás acceso a las bicis. Esta tarjeta tiene ciertas limitaciones pues solo funcionan dentro de Seúl, no sirve para la linea de tren de color amarillo en el tramo central. Tampoco sirve para los buses de larga distancia de color rojo.
@@ -53,5 +55,7 @@ Aviso importante, Google Maps no funciona para rutas en Corea, únicamente para 
 
 Como alternativa me fije que actualmente en varias ciudades de Japón hay un servicio público de alquiler de bicis con el nombre de [Charichari](https://charichari.bike/en). Desafortunadamente no las probé en esta ocasión.
 
-## 
+### Kyushu 
+
+El famoso Japan Rail Pass ha quedado bastante relegado a un segundo plano. En este viaje decidí explorar Kyushu utilizando el pase de 7 días
 
